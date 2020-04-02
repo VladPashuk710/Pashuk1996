@@ -15,7 +15,7 @@ public class PracticeTwo {
         if (bmi <= 30.0) {
             System.out.println("Overweight");
         }
-        if (bmi <= 30) {
+        if (bmi >= 30) {
             System.out.println("Obese");
         }
     }
